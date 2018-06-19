@@ -1,4 +1,4 @@
-N.B. This document exists to comply with GDPR. In simple English: Apkallu Falls does not include analytics or adverts and only uses browser storage to cache data (to make the site run smoother on your computer). No identifyable user data is stored by Apkallu Falls itself.
+N.B. This document exists to comply with GDPR. In simple English: Apkallu Falls does not include analytics or adverts and only uses browser storage to cache data (to make the site run smoother on your computer). No personally-identifiable user data is stored by Apkallu Falls itself.
 
 ---
 
