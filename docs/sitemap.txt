@@ -1184,7 +1184,9 @@ https://apkallufalls.com/chocobo-barding/11/
 https://apkallufalls.com/chocobo-barding/10/
 https://apkallufalls.com/chocobo-barding/1/
 https://apkallufalls.com/character-select/
+https://apkallufalls.com/character/9151725/
 https://apkallufalls.com/character/9065567/
+https://apkallufalls.com/character/871967/
 https://apkallufalls.com/character/8530626/
 https://apkallufalls.com/character/8273741/
 https://apkallufalls.com/character/7547066/
@@ -3293,3 +3295,4 @@ https://apkallufalls.com/achievement/1000/
 https://apkallufalls.com/achievement/100/
 https://apkallufalls.com/achievement/10/
 https://apkallufalls.com/achievement/1/
+https://apkallufalls.com/!/tequila/
