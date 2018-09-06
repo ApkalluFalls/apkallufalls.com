@@ -1,9 +1,20 @@
 # Changelog
 
+## 2.1.1 - September 2018
+
+### New Features
+* It's now possible to search for content. This can be done through a search box on the home page. This uses XIVAPI's search mechanism.
+
+### Minor Tweaks
+* Custom URLs for supporters are now slightly faster than they used to be.
+* A typo has been fixed on the achievements page. "dispalyed" -> "displayed".
+* An issue where Apkallu Falls would not load on Microsoft Edge has been resolved.
+* Data caching is now a lot more efficient.
+
 ## 2.1 - August 2018
 
 ### New Features
-* Orchestrion Rolls and Chocobo Barding is now listed. ([Blog entry](https://www.patreon.com/posts/did-someone-say-20213110))
+* Orchestrion Rolls and sets of Chocobo Barding are now listed. ([Blog entry](https://www.patreon.com/posts/did-someone-say-20213110))
 * https://apkallufalls.com/connect - Users can now log in to Apkallu Falls with email, Facebook, Google and Twitter. ([Blog entry](https://www.patreon.com/posts/sign-in-page-19563395))
   * Logged-in users can verify ownership their characters by visiting their character profile pages.
   * Logged-in users can manually track content like Emotes, which are not automatically trackable. ([Blog entry](https://www.patreon.com/posts/19810553))
@@ -42,7 +53,7 @@
 ### Discussion Points
 
 #### When will the census be implemented?
-Due to the news about XIVDB, and the fact it still hasn't updated to patch 4.6, this is currently on hold until further notice.
+Due to the news about XIVDB, and the fact it still hasn't updated to patch 4.36, this is currently on hold until further notice.
 
 #### You said hairstyles would be trackable, where are they?
 There are only 8 hairstyles available in-game that aren't available by default. Dedicating a section of the site to track such a small quantity of content would be expensive with little reward. For now, this is on hold.
