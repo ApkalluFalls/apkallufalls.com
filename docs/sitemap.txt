@@ -168,6 +168,9 @@ https://apkallufalls.com/orchestrion-roll/30/
 https://apkallufalls.com/orchestrion-roll/3/
 https://apkallufalls.com/orchestrion-roll/29/
 https://apkallufalls.com/orchestrion-roll/28/
+https://apkallufalls.com/orchestrion-roll/278/
+https://apkallufalls.com/orchestrion-roll/277/
+https://apkallufalls.com/orchestrion-roll/276/
 https://apkallufalls.com/orchestrion-roll/275/
 https://apkallufalls.com/orchestrion-roll/274/
 https://apkallufalls.com/orchestrion-roll/273/
@@ -1256,6 +1259,7 @@ https://apkallufalls.com/chocobo-barding/11/
 https://apkallufalls.com/chocobo-barding/10/
 https://apkallufalls.com/chocobo-barding/1/
 https://apkallufalls.com/character-select/
+https://apkallufalls.com/character/9736706/
 https://apkallufalls.com/character/9151725/
 https://apkallufalls.com/character/9065567/
 https://apkallufalls.com/character/871967/
@@ -1264,6 +1268,7 @@ https://apkallufalls.com/character/8273741/
 https://apkallufalls.com/character/8115985/
 https://apkallufalls.com/character/7547066/
 https://apkallufalls.com/character/730968/
+https://apkallufalls.com/character/6504064/
 https://apkallufalls.com/character/2116280/
 https://apkallufalls.com/character/20188222/
 https://apkallufalls.com/character/17694083/
@@ -3371,6 +3376,7 @@ https://apkallufalls.com/achievement/1000/
 https://apkallufalls.com/achievement/100/
 https://apkallufalls.com/achievement/10/
 https://apkallufalls.com/achievement/1/
+https://apkallufalls.com/!/ytajha/
 https://apkallufalls.com/!/tylor/
 https://apkallufalls.com/!/thalele/
 https://apkallufalls.com/!/tequila/
